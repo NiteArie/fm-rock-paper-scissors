@@ -1,5 +1,13 @@
 # fm-rock-paper-scissors (Rock Paper Scissors)
 
+## Design
+
+> Desktop Preview
+
+![Desktop Preview](./design/desktop-preview.jpg)
+
+
+
 ## General
 
 My challenge is to build out this Rock, Paper, Scissors game and get it looking as close to the design as possible.
